@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# База данных (SQLite)
+*.db
+*.sqlite3
+bot_data.db
+
+# Виртуальное окружение
+venv/
+.env
+
+# PyCharm / VSCode
+.idea/
+*.iml
+.vscode/
+
+# ОС
+.DS_Store
